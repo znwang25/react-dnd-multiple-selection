@@ -1,0 +1,35 @@
+{
+  "name": "react-dnd-multiple-selection",
+  "version": "1.0.0",
+  "description": "Implement multiple selection using react-dnd and hooks.",
+  "keywords": [
+    "react",
+    "multiple selection",
+    "react hook",
+    "react-dnd"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "prop-types": "15.7.2",
+    "react": "17.0.0",
+    "react-dnd": "11.1.3",
+    "react-dnd-html5-backend": "11.1.3",
+    "react-dom": "17.0.0",
+    "react-scripts": "3.4.3"
+  },
+  "devDependencies": {
+    "typescript": "3.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
