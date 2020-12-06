@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ee75820241eccccc33ae0008eb769390",
+    "revision": "8e8d99434c3f61722723718b645011d4",
     "url": "/react-dnd-multiple-selection/index.html"
   },
   {
-    "revision": "b5db9db8de83e76603ed",
-    "url": "/react-dnd-multiple-selection/static/css/main.fe7f23ef.chunk.css"
+    "revision": "60190767636b6a4fef72",
+    "url": "/react-dnd-multiple-selection/static/css/main.45e36338.chunk.css"
   },
   {
     "revision": "76130f2142b1332edab2",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-dnd-multiple-selection/static/js/2.3f1f85cc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b5db9db8de83e76603ed",
-    "url": "/react-dnd-multiple-selection/static/js/main.5f853885.chunk.js"
+    "revision": "60190767636b6a4fef72",
+    "url": "/react-dnd-multiple-selection/static/js/main.f6e9321c.chunk.js"
   },
   {
     "revision": "a1b19e636c71ebd8d57f",

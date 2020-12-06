@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-dnd-multiple-selection/precache-manifest.1b84a65ca8034bcafae2e901fc7d88c9.js"
+  "/react-dnd-multiple-selection/precache-manifest.da9381e2f07f34cd8f96b38be840db6c.js"
 );
 
 self.addEventListener('message', (event) => {
