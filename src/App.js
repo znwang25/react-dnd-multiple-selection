@@ -6,7 +6,9 @@ import "./styles.css";
 
 export default function App() {
   return (
-    <div>
+    <div className="App">
+        <h2>Drag and drop multiple items with React DnD</h2>
+        <h4>Use Shift or Cmd key to multi-select</h4>
       <DndProvider backend={HTML5Backend}>
         <Container />
       </DndProvider>
